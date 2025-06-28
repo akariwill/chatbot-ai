@@ -1,8 +1,11 @@
 from openai import OpenAI
 import pandas as pd
 import tiktoken
+import os
 
-client = OpenAI(api_key= "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")
+openai_api_key = os.getenv("OPENAI_API_KEY")
+
+client = OpenAI(openai_api_key)
 
 from utils.embeddings_utils import get_embedding 
 
