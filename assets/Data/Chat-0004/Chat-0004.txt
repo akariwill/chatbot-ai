@@ -1,0 +1,764 @@
+15/07/24 09.51 - Pesan dan panggilan dienkripsi secara end-to-end. Tidak seorang pun di luar chat ini, termasuk WhatsApp, yang dapat membaca atau mendengarkannya. Ketuk untuk info selengkapnya.
+15/07/24 09.48 - CUSTOMER SERVICE TOPHOME: Terima kasih atas kepercayaan *Bpk/Ibu gunari* telah mendaftar untuk layanan internet kami! Kami sangat bersemangat untuk memberikan pengalaman internet yang luar biasa untuk Anda. Tim kami akan segera memproses pendaftaran Anda. Mohon tunggu, kami akan segera menghubungi Anda dalam waktu *maksimal 2x24 jam*. Kami sangat berharap dapat memberikan layanan terbaik untuk Anda. 
+
+Jika Anda memiliki pertanyaan atau kebutuhan segera, jangan ragu untuk menghubungi kami. Kami selalu siap membantu Anda.
+
+Terima kasih atas kesabaran dan pengertian Anda dalam menunggu 🙏
+15/07/24 10.24 - CUSTOMER SERVICE TOPHOME: RFO Instalasi - NOREG *20240700237*
+    
+Kepada Yth Bpk/Ibu gunari
+
+Sebelumnya kami ucapkan terima kasih atas kepercayaan menggunakan jasa layanan kami dan dapat kami informasikan untuk saat ini kami melakukan Instalasi. Berikut RFO detailnya :
+
+*Tanggal Instalasi :* 15 Jul 2024 on 10:23:34
+*Nama Teknisi      :* Abie
+*Telepon Teknisi   :* 085103034804
+
+Hormat kami,
+
+*TOP HOME*
+15/07/24 10.29 - CUSTOMER SERVICE TOPHOME: RFO Instalasi - NOREG *20240700237*
+    
+Kepada Yth Bpk/Ibu gunari
+
+Sebelumnya kami ucapkan terima kasih atas kepercayaan menggunakan jasa layanan kami dan dapat kami informasikan untuk saat ini kami telah selesai melakukan Instalasi. Selamat layanan internet anda saat ini telah aktif, berikut RFO detailnya :
+
+*Tanggal  :* 15 Jul 2024 on 10:29:36
+*Teknisi  :* Abie
+*ID Pelanggan :* 62895604317118
+*Password :* 15072024
+
+Silakan akses tautan di bawah ini untuk melakukan verifikasi kontrak berlangganan. Mohon setujui syarat dan kondisi yang terlampir untuk mendapatkan kontrak berlangganan.
+https://up2.telemedia.link/aktivasi?no_register=20240700237
+
+Silahkan login tautan portal pelanggan dibawah ini untuk link pembayaran serta melihat status pembayaran Anda, serta apabila Anda memiliki kendala Anda dapat melaporkan gangguan melalui portal ini. 
+https://pay.telemedia.link
+
+Berikut ini tautan video tata cara pembayaran melalui Dana 
+https://up2.telemedia.link/tutorial/DANA.php
+
+Berikut ini tautan video tata cara pembayaran melalui Alfamart
+https://up2.telemedia.link/tutorial/ALFAMART.php
+
+Berikut ini tautan video tata cara pembayaran melalui Bank
+https://up2.telemedia.link/tutorial/BANK.php
+						
+Apabila Anda ingin melakukan proses Upgrade dan Downgrade layanan internet Anda silahkan menghubungi CS Kami.
+
+Jika Anda memiliki pertanyaan atau kebutuhan segera, jangan ragu untuk menghubungi kami. Kami selalu siap membantu Anda.
+
+Hormat kami,
+
+*TOP HOME*
+15/07/24 10.31 - CUSTOMER SERVICE TOPHOME: *Konfirmasi Registrasi Pelanggan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Terima kasih telah menjadi pelanggan kami. Kami sangat berterima kasih dan berharap kami dapat memberikan layanan terbaik kepada Anda
+Berikut informasi data registrasi anda :
+
+*Nama Lengkap : Gunari*
+*Email : gunari@gmail.com*
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Periode Aktif : 15-07-2024 - 15-08-2024*
+*Total Tagihan : Rp. 170.000,00*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link* ( Password : *15072024* )
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+30/07/24 15.23 - +62 895-6043-17118: Assalamualaikum
+30/07/24 15.23 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+30/07/24 15.24 - +62 895-6043-17118: Wifi atas nama pak gunari kok ngk bisa dipakai ya
+30/07/24 15.26 - CUSTOMER SERVICE TOPHOME: Iya pak mohon maaf pak sebelum nya lagi gangguan pak
+30/07/24 15.31 - CUSTOMER SERVICE TOPHOME: Pak kalo boleh tau kendanya seperti apa ya pak 🙏
+30/07/24 15.42 - +62 895-6043-17118: Tidak ada internet
+30/07/24 15.46 - CUSTOMER SERVICE TOPHOME: coba tolong matikan lalu hidupkan kembali pak prangkat wifi /modem nya
+30/07/24 15.46 - +62 895-6043-17118: Ok
+03/08/24 00.14 - CUSTOMER SERVICE TOPHOME: Kepada
+Yth. Seluruh Pelanggan & Rekanan
+PT. Telemedia Prima Nusantara
+Terkait dengan tingginya kebutuhan traffic, maka manajemen IT PT.Telemedia Prima Nusantara akan melakukan Maintenance Upgrade Crossconnect dan Perangkat Switch 100G dengan detail sebagai berikut:
+DETAIL WAKTU PENGERJAAN
+Hari dan Tanggal : Sabtu , 03 Agustus 2024
+Waktu Pengerjaan : 00:00 s/d 01:00 WIB
+Estimasi Pekerjaan : 30 Menit dalam rentang Waktu Pekerjaan
+
+DETAIL TEKNIS
+Pekerjaan : Upgrade Crossconnect dan Switch 100G di Data Center Gd CyberLt1 Kuningan ,Jakarta
+Dampak : Layanan Up/Down selama kegiatan berlangsung
+
+Demikian informasi yang dapat kami berikan. Atas perhatiannya kami ucapkan terima kasih yang sebesar-besarnya.
+
+Hormat Kami,
+PT. Telemedia Prima Nusantara
+13/08/24 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1572441459*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-08-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-08-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+17/08/24 08.05 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1572441459*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-08-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-08-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+17/08/24 15.10 - +62 895-6043-17118: Assalamualaikum
+17/08/24 15.10 - +62 895-6043-17118: Kak kalau mau bayar ke indomaret apa nama wifinya
+17/08/24 18.06 - CUSTOMER SERVICE TOPHOME: Mohon maaf kami baru tersedia via Alfamart
+17/08/24 18.07 - CUSTOMER SERVICE TOPHOME: ‎IMG-20240817-WA0016.jpg (file terlampir)
+Berikut kode pembayaran via alfamart'
+18/08/24 08.05 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1572441459*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-08-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-08-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+19/08/24 08.05 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1572441459*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-08-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-08-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+20/08/24 08.05 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1572441459*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-08-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-08-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+20/08/24 18.54 - CUSTOMER SERVICE TOPHOME: *Terima kasih atas pembayaran anda*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Terima kasih telah melunasi pembayaran invoice *INV-1572441459*
+Berikut informasi perpanjangan paket anda :
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Periode Aktif : 20-08-2024 - 15-09-2024*
+*Jumlah Dibayarkan : Rp. 170.000,00*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+13/09/24 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1092418577*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-09-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-09-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+15/09/24 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1092418577*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-09-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-09-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/09/24 08.05 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1092418577*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-09-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-09-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/09/24 08.12 - +62 895-6043-17118: Saya mau bayar wifi
+16/09/24 08.12 - +62 895-6043-17118: Tapi ngk bisa di indomaret
+16/09/24 08.14 - CUSTOMER SERVICE TOPHOME: *Terima kasih atas pembayaran anda*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Terima kasih telah melunasi pembayaran invoice *INV-1092418577*
+Berikut informasi perpanjangan paket anda :
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Periode Aktif : 16-09-2024 - 15-10-2024*
+*Jumlah Dibayarkan : Rp. 170.000,00*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+11/10/24 21.07 - CUSTOMER SERVICE TOPHOME: Kepada Yth, 
+Seluruh Pelanggan & Rekanan
+PT. Telemedia Prima Nusantara 
+
+Terkait dengan adanya gangguan jaringan internet, maka manajemen IT PT. Telemedia Prima Nusantara akan melakukan maintenance dengan detail sebagai berikut :
+
+DETAIL WAKTU PENGERJAAN 
+Hari/Tanggal 		: Jumat, 11 Oktober 2024
+Waktu 		           	: 20.20  s/d. selesai
+Lokasi 		         	: Jl.Jendral Sudirman,20 ilir D.III Kecamatan Ilir Timur I , Kota Palembang, Sumatera Selatan 30110
+
+
+DETAIL TEKNIS
+Pekerjaan 		: Indikasi Kabel Cut Akibat Gamas Vandalisme 
+Segmen Terdampak 	: Sebagian link layanan Toplink Networks
+Dampak 			: Koneksi internet down pada saat pengerjaan 
+Action 			: Sambung Ulang Kabel KU Feeder
+
+Atas ketidaknyamanan yang ditimbulkan kami sampaikan permohonan maaf. Demikian yang dapat kami sampaikan, atas perhatian dan kerjasamanya kami ucapkan terima kasih yang sebesar-besarnya.
+
+PT. Telemedia Prima Nusantara
+13/10/24 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-10102420683*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-10-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-10-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+15/10/24 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-10102420683*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-10-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-10-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/10/24 08.06 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-10102420683*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-10-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-10-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/10/24 09.12 - CUSTOMER SERVICE TOPHOME: *Terima kasih atas pembayaran anda*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Terima kasih telah melunasi pembayaran invoice *INV-10102420683*
+Berikut informasi perpanjangan paket anda :
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Periode Aktif : 16-10-2024 - 15-11-2024*
+*Jumlah Dibayarkan : Rp. 170.000,00*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+17/10/24 17.59 - +62 895-6043-17118: Kenapa sih wifinya tidak bisa digunakan
+17/10/24 17.59 - +62 895-6043-17118: Gangguan terus
+17/10/24 17.59 - +62 895-6043-17118: Tiap hari gangguan terus
+17/10/24 18.17 - CUSTOMER SERVICE TOPHOME: baik selamat malam pak, silakan di coba kembali🙏
+06/11/24 00.12 - CUSTOMER SERVICE TOPHOME: Selamat Malam Bapak/Ibuk Pelanggan Yth
+Mohon izin kami informasikan bahwa Malam ini mulai pukul 03.00 s/d  selesai akan ada maintenance perangkat kami, yang mengakibatkan internet down sementara .
+mohon untuk pengertiannya Terimakasih🙏
+13/11/24 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-10112468710*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-11-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-11-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+15/11/24 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-10112468710*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-11-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-11-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/11/24 08.05 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-10112468710*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-11-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-11-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/11/24 08.28 - CUSTOMER SERVICE TOPHOME: *Terima kasih atas pembayaran anda*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Terima kasih telah melunasi pembayaran invoice *INV-10112468710*
+Berikut informasi perpanjangan paket anda :
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Periode Aktif : 16-11-2024 - 15-12-2024*
+*Jumlah Dibayarkan : Rp. 170.000,00*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/11/24 13.42 - +62 895-6043-17118: Assalamualaikum
+16/11/24 13.42 - +62 895-6043-17118: Maaf kenapa internya ngk menyala
+16/11/24 13.42 - +62 895-6043-17118: Tidak ada koneksi
+16/11/24 13.59 - CUSTOMER SERVICE TOPHOME: Baik selmat siang bukk ..mohon di tunggu sbntr ya bukk sktr 10 mnt an lgi .mohon maaf sblm nya 🙏
+13/12/24 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-10122495803*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-12-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-12-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+15/12/24 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-10122495803*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-12-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-12-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/12/24 08.06 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-10122495803*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-12-2024*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-12-2024*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/12/24 11.04 - CUSTOMER SERVICE TOPHOME: *Terima kasih atas pembayaran anda*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Terima kasih telah melunasi pembayaran invoice *INV-10122495803*
+Berikut informasi perpanjangan paket anda :
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Periode Aktif : 16-12-2024 - 15-01-2025*
+*Jumlah Dibayarkan : Rp. 170.000,00*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+06/01/25 14.26 - +62 895-6043-17118: Selamat siang
+06/01/25 14.26 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+06/01/25 14.27 - CUSTOMER SERVICE TOPHOME: Selamat [pagi/siang/sore], Bapak/Ibu.
+
+Kami informasikan bahwa saat ini sedang terjadi gangguan pada link utama layanan internet kami. Untuk menjaga kelancaran akses, saat ini kami telah mengalihkan layanan ke link backup.
+
+Kami mohon maaf atas ketidaknyamanan ini dan terima kasih atas pengertian Anda. Tim kami sedang bekerja keras untuk memulihkan link utama secepat mungkin. Jika ada yang perlu dibantu, silakan hubungi kami kembali.
+
+Terima kasih. 🙏
+06/01/25 14.27 - +62 895-6043-17118: Wifinya mati ya dr tadi
+06/01/25 15.15 - CUSTOMER SERVICE TOPHOME: Silakan di cek kembali jaringan sudah normal kembli🙏🏻
+07/01/25 02.18 - CUSTOMER SERVICE TOPHOME: selamat Malam Bapak/ Ibu 🙏🙏
+Kepada Yth,
+Seluruh Pelanggan TOPHOME
+PT. Telemedia Prima Nusantara
+
+Kami ingin memberitahukan bahwa terjadi gangguan layanan internet WiFi.
+Untuk mengatasi gangguan jaringan internet, manajemen IT PT. Telemedia Prima Nusantara akan melakukan upgrade layanan link internet dengan rincian sebagai berikut:
+
+DETAIL WAKTU PENGERJAAN
+Hari/Tanggal: Selasa, 07 Januari 2024
+Waktu: 02.30 wib, sampai dengan selesai
+
+DETAIL TEKNIS
+Permasalahan: Perpindahan router,
+Segmen Terdampak: Sebagian link layanan TOPHOME Networks
+Dampak: Koneksi internet terputus selama proses pengerjaan
+Tindakan: Tim teknis kami akan melakukan upgrade layanan internet link utama
+Kami menyampaikan permohonan maaf atas ketidaknyamanan yang timbul. Kami akan berusaha menyelesaikan perbaikan ini secepat mungkin. Silakan hubungi Layanan Pelanggan kami jika ada pertanyaan lebih lanjut.
+
+Demikian yang dapat kami sampaikan. Kami mengucapkan terima kasih atas perhatian dan kerjasamanya.
+
+Hormat kami,
+
+TOPHOME
+PT. Telemedia Prima Nusantara
+13/01/25 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1012519400*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-01-2025*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-01-2025*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+15/01/25 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1012519400*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-01-2025*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-01-2025*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/01/25 08.07 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1012519400*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-01-2025*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-01-2025*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/01/25 09.21 - CUSTOMER SERVICE TOPHOME: *Terima kasih atas pembayaran anda*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Terima kasih telah melunasi pembayaran invoice *INV-1012519400*
+Berikut informasi perpanjangan paket anda :
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Periode Aktif : 16-01-2025 - 15-02-2025*
+*Jumlah Dibayarkan : Rp. 170.000,00*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+04/02/25 14.22 - +62 895-6043-17118: Assalamualaikum
+04/02/25 14.22 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+04/02/25 14.23 - +62 895-6043-17118: Internet nya kok mati dari tadi
+04/02/25 14.24 - CUSTOMER SERVICE TOPHOME: PEMBERITAHUAN TERKAIT LINK JAKARTA - PALEMBANG
+
+Nomor: 1127/SK.k/TOP/PLM/IV/2025
+Palembang
+
+Kepada
+Yth. Seluruh Pelanggan dan Rekanan
+PT. Telemedia Prima Nusantara
+
+Dengan hormat,
+
+Kami informasikan bahwa saat ini sedang terjadi gangguan pada link Jakarta - Palembang yang mengalami down, Untuk saat ini tim sedang dalam proses perbaikan
+DETAIL WAKTU PENGERJAAN
+
+Hari/Tanggal: Selasa,4 Februari 2025
+
+Waktu: 14:00 WIB
+
+Estimasi Pengerjaan: ±2 Jam dalam rentang waktu tersebut
+
+Kami memohon maaf atas ketidaknyamanan yang mungkin terjadi selama proses pemeliharaan. Terima kasih atas perhatian dan pengertiannya.
+
+Hormat kami,
+
+PT. Telemedia Prima Nusantara
+04/02/25 14.43 - CUSTOMER SERVICE TOPHOME: Silakan di cek kembali internet sudah kembali normal,mohon maaf atas menggangu waktunya terima kasih🙏
+13/02/25 08.03 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1022587827*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-02-2025*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-02-2025*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+15/02/25 08.04 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1022587827*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-02-2025*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-02-2025*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/02/25 08.17 - CUSTOMER SERVICE TOPHOME: *Invoice anda sudah diterbitkan*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Berikut ini merupakan pengingat tagihan anda dengan nomor invoice : *INV-1022587827*
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Jatuh Tempo : 15-02-2025*
+*Jumlah : Rp. 170.000,00*
+
+Untuk menghindari penangguhan layanan dan pemutusan koneksi internet, harap bayarkan tagihan anda sebelum - *15-02-2025*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*
+16/02/25 12.25 - CUSTOMER SERVICE TOPHOME: *Terima kasih atas pembayaran anda*
+
+*Kepada Yth Bapak/Ibu Gunari,*
+Terima kasih telah melunasi pembayaran invoice *INV-1022587827*
+Berikut informasi perpanjangan paket anda :
+
+*ID Pelanggan : 62895604317118*
+*Paket Layanan : Internet Only 15 M*
+*Tipe Pembayaran : PREPAID*
+*Periode Aktif : 16-02-2025 - 15-03-2025*
+*Jumlah Dibayarkan : Rp. 170.000,00*
+
+Anda dapat melihat dan mengunduh berkas tagihan secara online melalui portal *https://pay.telemedia.link*
+
+Untuk informasi lainnya silahkan hubungi nomor Whatsapp *https://wa.me/6281277777505* untuk bantuan Customer Service
+
+*Salam Hormat,*
+*PT. TELEMEDIA PRIMA NUSANTARA, ISP, JTT, JTL*

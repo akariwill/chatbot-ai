@@ -1,0 +1,83 @@
+22/05/24 22.52 - Pesan dan panggilan dienkripsi secara end-to-end. Tidak seorang pun di luar chat ini, termasuk WhatsApp, yang dapat membaca atau mendengarkannya. Ketuk untuk info selengkapnya.
+22/05/24 22.52 - 
+22/05/24 22.52 - +62 896-0627-5936: halo malam, sy mau bayar wifi tapi website nya gabisa dibuka
+22/05/24 22.52 - +62 896-0627-5936: <Media tidak disertakan>
+22/05/24 22.52 - +62 896-0627-5936: saya mau bayar melalui va mandiri
+22/05/24 22.52 - CUSTOMER SERVICE TOPHOME: Terima kasih atas pesan Anda
+
+Karena pesan anda berada diluar jam kerja, balasan dari kami akan terlambat. 
+
+Tetapi kami akan merespons secepat mungkin, saat layanan sudah tersedia atau dalam jangka waktu jam kerja.
+04/07/24 17.23 - +62 896-0627-5936: Halo kak, kenapa wifi kami tidak ada jaringan
+04/07/24 17.23 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+04/07/24 17.23 - +62 896-0627-5936: Tolong di cek kak
+04/07/24 17.23 - CUSTOMER SERVICE TOPHOME: selamat sore kak
+04/07/24 17.23 - CUSTOMER SERVICE TOPHOME: atas nama siapa yah kak?
+04/07/24 17.23 - +62 896-0627-5936: Rosmala kak
+04/07/24 17.25 - +62 896-0627-5936: ‎IMG-20240704-WA0019.jpg (file terlampir)
+04/07/24 17.25 - CUSTOMER SERVICE TOPHOME: alamat nya bener di lagnolia 01 No. 02 atas nama rosmala dewi
+04/07/24 17.25 - +62 896-0627-5936: Citra Indah Residence blok r6 kak An Rosmala
+04/07/24 17.27 - CUSTOMER SERVICE TOPHOME: Mohon maaf sedang ada gangguan putus kabel, sedang dalam pengerjaan perbaikan, mohon ditunggu. 🙏🏻
+04/07/24 17.28 - +62 896-0627-5936: kira2 berapa lama kak? saya mau zoom meeting soalnya mau interview
+04/07/24 17.35 - CUSTOMER SERVICE TOPHOME: Estimasi jam 18:30 kak 🙏🏻
+04/07/24 18.02 - CUSTOMER SERVICE TOPHOME: Sudah on kembali kak🙏
+04/07/24 18.19 - +62 896-0627-5936: terimakasih
+04/07/24 18.20 - CUSTOMER SERVICE TOPHOME: Terima kasih kembali🙏🏻
+11/09/24 17.54 - +62 896-0627-5936: Halo kak, kalo mau ganti password wifi gimana ya kak?
+11/09/24 17.54 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+11/09/24 17.55 - +62 896-0627-5936: ganti password kak
+11/09/24 17.56 - CUSTOMER SERVICE TOPHOME: baik boleh dibantu 
+silahkan kirim password terbaru agar kami bantu untuk rubah🙏
+11/09/24 17.57 - +62 896-0627-5936: Cir6rosmala
+11/09/24 17.57 - +62 896-0627-5936: itu ya kak
+11/09/24 17.58 - +62 896-0627-5936: C depan capslock
+11/09/24 18.00 - CUSTOMER SERVICE TOPHOME: Baik, password sudah diganti
+silahkan dicoba kembali🙏
+11/09/24 18.00 - +62 896-0627-5936: oke kak makasih
+11/09/24 18.00 - CUSTOMER SERVICE TOPHOME: Terima kasih kembali🙏
+12/10/24 10.00 - +62 896-0627-5936: Halo kak, mau tanya kenapa wifinya gangguan terus ya
+12/10/24 10.00 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+12/10/24 10.07 - CUSTOMER SERVICE TOPHOME: Mohon maaf kak sedang dalam perbaikan harap ditunggu sebentar sedang diusahakan semaksimal nya🙏🏻
+03/11/24 00.04 - +62 896-0627-5936: halo kak kenapa wifinya sering no internet ya
+03/11/24 00.20 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+03/11/24 00.21 - +62 896-0627-5936: halo kak kenapa wifinya sering no internet ya
+03/11/24 00.22 - +62 896-0627-5936: tolong mbak kenapa sering nian akhir2 ini no internet terus dan lama bukan sebentar, ini saya mau buat tugas kehambat
+10/11/24 15.56 - +62 896-0627-5936: halo kak
+10/11/24 15.56 - +62 896-0627-5936: kenapa wifinya no internet
+10/11/24 15.56 - +62 896-0627-5936: tolong dibales kak ini udah dari pagi gangguan terus
+10/11/24 15.56 - +62 896-0627-5936: null
+10/11/24 16.03 - CUSTOMER SERVICE TOPHOME: Laporan Gangguan Jaringan
+Gangguan Link Palembang - Lampung
+Tanggal: 5 Oktober 2024
+Waktu: [Waktu Mulai Gangguan - 10:00 WIB]
+
+
+Pada tanggal 5 Oktober 2024, terjadi gangguan pada link backbone Palembang - Lampung yang berdampak pada konektivitas di area tersebut. Saat ini, pelanggan mengalami kendala massive problem sebagai dampak dari gangguan berikut:
+
+Fiber Failure pada Section Anyer - Kalianda
+Gangguan disebabkan oleh putusnya kabel pada section Anyer - Kalianda sejak 10 November 2024 pukul 11:56:03 WIB. Update terbaru menunjukkan dugaan putusnya satu core. Tim sedang dalam persiapan menuju site Anyer untuk melakukan pengukuran OTDR guna memastikan lokasi dan penyebab kerusakan.
+
+PLAN BACKUP
+Saat ini, proses backup sedang dilakukan untuk mengurangi dampak gangguan terhadap pelanggan dan menjaga konektivitas sementara selama proses perbaikan berlangsung.
+
+Detil Gangguan:
+
+Jenis Gangguan: Putusnya link jaringan antara Palembang dan Lampung
+Lokasi: Link Backbone Palembang - Lampung, Anyer - Kalianda
+
+Penyebab Gangguan:
+
+Gangguan disebabkan oleh kerusakan kabel pada jalur antara Anyer dan Kalianda. Setelah inspeksi awal, ditemukan indikasi bahwa satu core kabel putus, diduga akibat faktor lingkungan.
+
+Dampak Gangguan:
+
+Area yang Terdampak: Wilayah Sumatera dan sebagian besar Palembang - Lampung.
+Jumlah Pelanggan yang Terdampak: Sebagian besar pelanggan di area terdampak, termasuk pengguna internet broadband dan dedicated line.
+Jenis Layanan yang Terdampak: Penurunan kualitas layanan internet, meliputi penurunan kecepatan koneksi, kehilangan koneksi secara intermiten, hingga terputusnya layanan total bagi sebagian pelanggan.
+Dampak pada Aktivitas Pelanggan: Pelanggan bisnis dan individual mengalami kesulitan dalam mengakses internet untuk kebutuhan operasional, komunikasi, dan aktivitas sehari-hari yang mengandalkan konektivitas internet.
+
+
+Kami mohon maaf atas ketidaknyamanan yang dialami pelanggan akibat gangguan ini. Terima kasih atas kesabaran dan pengertian pelanggan kami selama proses pemulihan berlangsung. Untuk informasi lebih lanjut, pelanggan dapat menghubungi customer service di (+62 821-8000-0505)
+
+Disusun oleh:
+PT. Telemedia Prima Nusantara

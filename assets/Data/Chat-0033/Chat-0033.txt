@@ -1,0 +1,114 @@
+08/11/24 16.38 - CUSTOMER SERVICE TOPHOME: baik pak ada bisa saya bantu pak
+08/11/24 16.52 - +62 821-7806-0775: null
+08/11/24 16.53 - +62 821-7806-0775: Contact ini bisa di hubungi gak ya,.
+Saya mau pasang wifi
+08/11/24 16.53 - CUSTOMER SERVICE TOPHOME: 089513075866
+10/11/24 13.20 - +62 821-7806-0775: Koq lelet Yo signal wifi ny,.
+YouTube Bae dak biso
+10/11/24 13.20 - CUSTOMER SERVICE TOPHOME: Laporan Gangguan Jaringan
+Gangguan Link Palembang - Lampung
+Tanggal: 5 Oktober 2024
+Waktu: [Waktu Mulai Gangguan - 10:00 WIB]
+
+
+Pada tanggal 5 Oktober 2024, terjadi gangguan pada link backbone Palembang - Lampung yang berdampak pada konektivitas di area tersebut. Saat ini, pelanggan mengalami kendala massive problem sebagai dampak dari gangguan berikut:
+
+Fiber Failure pada Section Anyer - Kalianda
+Gangguan disebabkan oleh putusnya kabel pada section Anyer - Kalianda sejak 10 November 2024 pukul 11:56:03 WIB. Update terbaru menunjukkan dugaan putusnya satu core. Tim sedang dalam persiapan menuju site Anyer untuk melakukan pengukuran OTDR guna memastikan lokasi dan penyebab kerusakan.
+
+PLAN BACKUP
+Saat ini, proses backup sedang dilakukan untuk mengurangi dampak gangguan terhadap pelanggan dan menjaga konektivitas sementara selama proses perbaikan berlangsung.
+
+Detil Gangguan:
+
+Jenis Gangguan: Putusnya link jaringan antara Palembang dan Lampung
+Lokasi: Link Backbone Palembang - Lampung, Anyer - Kalianda
+
+Penyebab Gangguan:
+
+Gangguan disebabkan oleh kerusakan kabel pada jalur antara Anyer dan Kalianda. Setelah inspeksi awal, ditemukan indikasi bahwa satu core kabel putus, diduga akibat faktor lingkungan.
+
+Dampak Gangguan:
+
+Area yang Terdampak: Wilayah Sumatera dan sebagian besar Palembang - Lampung.
+Jumlah Pelanggan yang Terdampak: Sebagian besar pelanggan di area terdampak, termasuk pengguna internet broadband dan dedicated line.
+Jenis Layanan yang Terdampak: Penurunan kualitas layanan internet, meliputi penurunan kecepatan koneksi, kehilangan koneksi secara intermiten, hingga terputusnya layanan total bagi sebagian pelanggan.
+Dampak pada Aktivitas Pelanggan: Pelanggan bisnis dan individual mengalami kesulitan dalam mengakses internet untuk kebutuhan operasional, komunikasi, dan aktivitas sehari-hari yang mengandalkan konektivitas internet.
+
+
+Kami mohon maaf atas ketidaknyamanan yang dialami pelanggan akibat gangguan ini. Terima kasih atas kesabaran dan pengertian pelanggan kami selama proses pemulihan berlangsung. Untuk informasi lebih lanjut, pelanggan dapat menghubungi customer service di (+62 821-8000-0505)
+
+Disusun oleh:
+PT. Telemedia Prima Nusantara
+10/11/24 14.23 - +62 821-7806-0775: Hri ini 10 November di Palembang
+10/11/24 14.23 - +62 821-7806-0775: Itu di Kalianda yg 10 November
+10/11/24 14.24 - +62 821-7806-0775: Skrng malah katek signal sama sekali
+10/11/24 14.24 - +62 821-7806-0775: Baru kemarin pasang
+Langsung ada kendala hari ini🤦🏻‍♂️
+10/11/24 14.26 - CUSTOMER SERVICE TOPHOME: Baik pak mohon maaf sbelum nya kabel fiber dari pusatt putus pak
+10/11/24 14.26 - CUSTOMER SERVICE TOPHOME: Jadi terkena dampak nya juga di sni pak 🙏
+10/11/24 14.27 - +62 821-7806-0775: Biasa nya brp lama kembali normal signal ny
+10/11/24 14.29 - CUSTOMER SERVICE TOPHOME: Mnurut teknisi 2 smpai 3 jam an pak .. tapi bisa lebih cpat bisa juga lebih lambat pakk 🙏
+10/11/24 14.30 - +62 821-7806-0775: Oke kami berharap signal nya bisa kembali normal y
+16/11/24 15.01 - +62 821-7806-0775: Wifi ny dri semalem Sampek siang ini ada gangguan 
+Tidak ada koneksi internet 
+Kenapa ya?
+16/11/24 15.11 - CUSTOMER SERVICE TOPHOME: Baik pak uruk skrng sudah up kmbali pakk
+16/11/24 15.12 - +62 821-7806-0775: Sebelum nya ada kendala apa
+16/11/24 15.13 - CUSTOMER SERVICE TOPHOME: Listrik down pak .. batrai aki gk bekap jadi router mati.. untuk skrng sudah di perbaiki pakk 🙏🏻
+16/11/24 15.16 - +62 821-7806-0775: KL ada kendala tolong di infokan ya
+16/11/24 15.29 - CUSTOMER SERVICE TOPHOME: Baik pak
+22/11/24 23.18 - +62 821-7806-0775: Signal wifi kenapa lemot ya,.
+Ada gangguan lagi kah
+23/11/24 00.12 - CUSTOMER SERVICE TOPHOME: Baik pak bisa di coba kembali
+12/01/25 11.13 - +62 821-7806-0775: Wifi kenapa gak bisa ya, ada gangguan kah?
+12/01/25 11.15 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+12/01/25 11.15 - +62 821-7806-0775: Lgi Ado gangguan yo
+12/01/25 11.16 - CUSTOMER SERVICE TOPHOME: Mohon maaf pak ada kendala apa sama internenya🙏🏻
+12/01/25 11.17 - +62 821-7806-0775: Pesan ini dihapus
+12/01/25 11.17 - +62 821-7806-0775: Katek koneksi
+12/01/25 11.21 - +62 821-7806-0775: Hallo
+12/01/25 11.22 - +62 821-7806-0775: null
+12/01/25 11.25 - +62 821-7806-0775: null
+12/01/25 11.29 - CUSTOMER SERVICE TOPHOME: baik atas nama siapa ya pak
+12/01/25 11.30 - +62 821-7806-0775: Ricky Mainaky Edisro
+12/01/25 11.33 - CUSTOMER SERVICE TOPHOME: ‎IMG-20250112-WA0000.jpg (file terlampir)
+setelah kami cek tidak ada kendala sama jaringan internetnya pak,ad kendala lain pak🙏
+12/01/25 11.34 - +62 821-7806-0775: Tpi koq dak ktek koneksi internetet ny Yo,.
+Idg kebaco Samo sekali Ado jaringan wifi
+12/01/25 11.35 - +62 821-7806-0775: Namo wifi ny GOODDAY 
+itu idg kebaco pas Qt nak masuk ke wifi
+12/01/25 11.35 - CUSTOMER SERVICE TOPHOME: bisa dipotokan seperti apa kendalanya pak
+12/01/25 11.35 - CUSTOMER SERVICE TOPHOME: baik pak apakah sekarang sudah muncul ssidnya pak?
+12/01/25 11.37 - +62 821-7806-0775: ‎IMG-20250112-WA0001.jpg (file terlampir)
+12/01/25 11.37 - CUSTOMER SERVICE TOPHOME: ‎IMG-20250112-WA0002.jpg (file terlampir)
+12/01/25 11.38 - +62 821-7806-0775: Wifi kami nama ny GOODTIME
+12/01/25 11.38 - +62 821-7806-0775: Iy bner
+12/01/25 11.38 - +62 821-7806-0775: Tapi di sni tidak di temukan
+12/01/25 11.39 - CUSTOMER SERVICE TOPHOME: baik mohon ditunggu sebntar kami sedang mengecek apakah ada kendala apa sama internetnya pak
+12/01/25 11.39 - +62 821-7806-0775: Baik
+12/01/25 11.40 - CUSTOMER SERVICE TOPHOME: apakah alat wifinya dicabut pak?
+12/01/25 11.41 - +62 821-7806-0775: Tidak
+12/01/25 11.41 - +62 821-7806-0775: Tdi sudah sempat di cabut dan di psang lgi
+12/01/25 11.42 - +62 821-7806-0775: ‎IMG-20250112-WA0003.jpg (file terlampir)
+Sudah jugo
+12/01/25 11.42 - +62 821-7806-0775: SDH ada jaringan nya
+12/01/25 11.43 - CUSTOMER SERVICE TOPHOME: baik pak silakan dicek kembali jaringan internetnya lpak
+12/01/25 11.43 - +62 821-7806-0775: Ini SDH ada
+Tapi ilang2
+12/01/25 11.43 - +62 821-7806-0775: Kdang muncul kdang ilang
+12/01/25 11.44 - +62 821-7806-0775: ‎IMG-20250112-WA0004.jpg (file terlampir)
+Kdang Ado Namo ny Bae,
+Signal katek
+12/01/25 11.44 - +62 821-7806-0775: Ado Namo ny
+Tapi ktek koneksi data
+12/01/25 11.46 - CUSTOMER SERVICE TOPHOME: baik pak apakah sekarang sudah normal internetnya pak
+12/01/25 11.48 - +62 821-7806-0775: Untuk saat ini SDH normal jaringan ny
+12/01/25 11.49 - +62 821-7806-0775: Itu tdi Ado Kendala ap 
+Kok biso ilang signal kyk itu
+12/01/25 11.49 - CUSTOMER SERVICE TOPHOME: baik pak setelah kami cek ada issue sedikit dari setianggan modemnya pak
+12/01/25 11.50 - +62 821-7806-0775: Oke baik 
+Terimakasih
+12/01/25 11.51 - CUSTOMER SERVICE TOPHOME: baik pak sama" pak
+12/01/25 12.12 - CUSTOMER SERVICE TOPHOME: Baik pak/ibu mohon ditunggu etsimasi 30 menit -1 jam ,ada kendala matinya iistrik server kami🙏🏻
+12/01/25 12.12 - +62 821-7806-0775: Oke

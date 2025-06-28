@@ -1,0 +1,169 @@
+15/10/24 13.02 - Pesan dan panggilan dienkripsi secara end-to-end. Tidak seorang pun di luar chat ini, termasuk WhatsApp, yang dapat membaca atau mendengarkannya. Ketuk untuk info selengkapnya.
+15/10/24 13.02 - Pesan dan panggilan dienkripsi secara end-to-end. Tidak seorang pun di luar chat ini, termasuk WhatsApp, yang dapat membaca atau mendengarkannya. Ketuk untuk info selengkapnya.
+15/10/24 13.02 - 
+15/10/24 13.01 - +62 813-7915-7656: Hello internetnya gangguan ya
+15/10/24 13.02 - 
+15/10/24 13.01 - +62 813-7915-7656: null
+15/10/24 13.02 - +62 813-7915-7656: Di tempat saya internetnya gangguan .. bisa minta tolong dibantu.. terima kasih
+15/10/24 13.02 - CUSTOMER SERVICE TOPHOME: baik buk bisa dibantu atas nama siapa buk
+25/10/24 15.36 - +62 813-7915-7656: null
+25/10/24 15.37 - +62 813-7915-7656: Selamat pagi pelanggan Yth,
+Berikut akun login web portal pelanggan:
+
+pay.telemedia.link
+Id Pelanggan: 6281297202671
+Password: 23072024
+25/10/24 15.41 - CUSTOMER SERVICE TOPHOME: Baik selamat sore pak
+25/10/24 15.42 - +62 813-7915-7656: ‎IMG-20241025-WA0026.jpg (file terlampir)
+Sudah melakukan pembayaran
+25/10/24 16.03 - +62 813-7915-7656: Pembayaran an Efta Meiliani Kurdiati .. Perumahan Green Center Park Gardenia 2 No 10..
+25/10/24 16.03 - +62 813-7915-7656: null
+25/10/24 16.10 - CUSTOMER SERVICE TOPHOME: baik buk nanti kami beritahu apabila internet ibuk sudah kembali normal
+25/10/24 16.14 - CUSTOMER SERVICE TOPHOME: baik buk untuk internet sudah kembali normal
+25/10/24 16.16 - +62 813-7915-7656: Makasi
+26/10/24 15.55 - +62 813-7915-7656: Selamat sore pak wifinya gangguan lagi ya
+26/10/24 15.56 - +62 813-7915-7656: null
+26/10/24 15.56 - +62 813-7915-7656: null
+26/10/24 15.57 - +62 813-7915-7656: Kenapa wifi skrg sering sekali gangguan pak..
+26/10/24 16.01 - +62 813-7915-7656: null
+26/10/24 16.02 - CUSTOMER SERVICE TOPHOME: Baik pak tadik restart router pak
+26/10/24 16.02 - CUSTOMER SERVICE TOPHOME: Mohon maaf sblm nya
+26/10/24 16.02 - CUSTOMER SERVICE TOPHOME: Sekarang sudah kembali normal pak jaringan nya
+26/10/24 16.02 - +62 813-7915-7656: Baik terima kasih
+10/11/24 14.03 - +62 813-7915-7656: Pak kenapa jaringan internet error lagi error lagi
+10/11/24 14.03 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+10/11/24 14.03 - +62 813-7915-7656: null
+10/11/24 14.06 - CUSTOMER SERVICE TOPHOME: Laporan Gangguan Jaringan
+Gangguan Link Palembang - Lampung
+Tanggal: 5 Oktober 2024
+Waktu: [Waktu Mulai Gangguan - 10:00 WIB]
+
+
+Pada tanggal 5 Oktober 2024, terjadi gangguan pada link backbone Palembang - Lampung yang berdampak pada konektivitas di area tersebut. Saat ini, pelanggan mengalami kendala massive problem sebagai dampak dari gangguan berikut:
+
+Fiber Failure pada Section Anyer - Kalianda
+Gangguan disebabkan oleh putusnya kabel pada section Anyer - Kalianda sejak 10 November 2024 pukul 11:56:03 WIB. Update terbaru menunjukkan dugaan putusnya satu core. Tim sedang dalam persiapan menuju site Anyer untuk melakukan pengukuran OTDR guna memastikan lokasi dan penyebab kerusakan.
+
+PLAN BACKUP
+Saat ini, proses backup sedang dilakukan untuk mengurangi dampak gangguan terhadap pelanggan dan menjaga konektivitas sementara selama proses perbaikan berlangsung.
+
+Detil Gangguan:
+
+Jenis Gangguan: Putusnya link jaringan antara Palembang dan Lampung
+Lokasi: Link Backbone Palembang - Lampung, Anyer - Kalianda
+
+Penyebab Gangguan:
+
+Gangguan disebabkan oleh kerusakan kabel pada jalur antara Anyer dan Kalianda. Setelah inspeksi awal, ditemukan indikasi bahwa satu core kabel putus, diduga akibat faktor lingkungan.
+
+Dampak Gangguan:
+
+Area yang Terdampak: Wilayah Sumatera dan sebagian besar Palembang - Lampung.
+Jumlah Pelanggan yang Terdampak: Sebagian besar pelanggan di area terdampak, termasuk pengguna internet broadband dan dedicated line.
+Jenis Layanan yang Terdampak: Penurunan kualitas layanan internet, meliputi penurunan kecepatan koneksi, kehilangan koneksi secara intermiten, hingga terputusnya layanan total bagi sebagian pelanggan.
+Dampak pada Aktivitas Pelanggan: Pelanggan bisnis dan individual mengalami kesulitan dalam mengakses internet untuk kebutuhan operasional, komunikasi, dan aktivitas sehari-hari yang mengandalkan konektivitas internet.
+
+
+Kami mohon maaf atas ketidaknyamanan yang dialami pelanggan akibat gangguan ini. Terima kasih atas kesabaran dan pengertian pelanggan kami selama proses pemulihan berlangsung. Untuk informasi lebih lanjut, pelanggan dapat menghubungi customer service di (+62 821-8000-0505)
+
+Disusun oleh:
+PT. Telemedia Prima Nusantara
+16/11/24 14.02 - +62 813-7915-7656: Pak saya mau tanya sinyal wifi lagi error ya pak
+16/11/24 14.04 - +62 813-7915-7656: ‎IMG-20241116-WA0008.jpg (file terlampir)
+Saya lagii zoom ..
+16/11/24 14.04 - +62 813-7915-7656: null
+16/11/24 14.04 - +62 813-7915-7656: null
+16/11/24 14.05 - CUSTOMER SERVICE TOPHOME: Baik mbak mhon di tunggu kisaran 5 mnt mbkk 🙏🙏
+16/11/24 14.07 - +62 813-7915-7656: ‎STK-20240602-WA0010.webp (file terlampir)
+24/11/24 07.00 - +62 813-7915-7656: Pagi pak .. ini internetnya error lagi ya
+24/11/24 07.01 - +62 813-7915-7656: null
+24/11/24 07.01 - CUSTOMER SERVICE TOPHOME: mohon maaf buk ada gangguan seperti apa ya buk
+24/11/24 07.01 - CUSTOMER SERVICE TOPHOME: selamat pagi kembali buk ada yg bisa dibantu buk
+24/11/24 07.02 - +62 813-7915-7656: Internetnya ga hidup mati
+24/11/24 07.02 - +62 813-7915-7656: Dari semalam
+24/11/24 07.03 - CUSTOMER SERVICE TOPHOME: ‎IMG-20241124-WA0001.jpg (file terlampir)
+24/11/24 07.04 - CUSTOMER SERVICE TOPHOME: mohon maaf buk dikarnakan internet tidak aktif silakan ibu melakukan pembayaran terlebih dahulu
+24/11/24 07.05 - +62 813-7915-7656: Okay
+24/11/24 07.05 - +62 813-7915-7656: Pemberitahuannya mana
+24/11/24 07.06 - +62 813-7915-7656: Saya minta pemberitahuannya berapa saya musti bayar trus pakai nomor yang mana
+24/11/24 07.07 - CUSTOMER SERVICE TOPHOME: baik buk kemungkinan belum terkirim invoicenya dikarnkan belum jam 8 buk
+24/11/24 07.07 - +62 813-7915-7656: Selamat pagi pelanggan Yth,
+Berikut akun login web portal pelanggan:
+
+pay.telemedia.link
+Id Pelanggan: 6281297202671
+Password: 23072024
+24/11/24 07.08 - +62 813-7915-7656: Ini nomor saya udah ganti
+24/11/24 07.11 - CUSTOMER SERVICE TOPHOME: baik silakan login untuk mengecek apakah sudah masuk jatuh tempo permbyaran buk
+24/11/24 07.15 - +62 813-7915-7656: ‎IMG-20241124-WA0003.jpg (file terlampir)
+24/11/24 07.16 - +62 813-7915-7656: Itu saya sudah bayar
+24/11/24 07.17 - +62 813-7915-7656: Bisa diaktifkan sekarang
+24/11/24 07.17 - CUSTOMER SERVICE TOPHOME: baik buk kami restart modemnya sbntr ya buk
+24/11/24 07.19 - +62 813-7915-7656: Baik 🙏🏻
+24/11/24 07.19 - CUSTOMER SERVICE TOPHOME: silakan dicek kembali internetnya buk apakah bisa digunkan internetnya
+24/11/24 07.20 - +62 813-7915-7656: Sudah bisa pak.. terima kasih
+24/11/24 07.21 - CUSTOMER SERVICE TOPHOME: baik sama sama buk🙏
+24/12/24 09.01 - +62 813-7915-7656: ‎IMG-20241224-WA0004.jpg (file terlampir)
+24/12/24 09.01 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+24/12/24 09.02 - CUSTOMER SERVICE TOPHOME: Baik terima kasih buk🙏🏻
+24/12/24 09.02 - +62 813-7915-7656: Sudah melakukan pembayaran agar segera mengaktifkan kmbl wifi
+24/12/24 09.02 - CUSTOMER SERVICE TOPHOME: Baik mohon ditunggu etsimasi 5-7 menit buk🙏🏻
+06/01/25 13.51 - +62 813-7915-7656: null
+06/01/25 13.51 - +62 813-7915-7656: null
+06/01/25 13.51 - +62 813-7915-7656: Internetnya gangguan y
+06/01/25 13.52 - CUSTOMER SERVICE TOPHOME: Baik mohon ditunggu sbntr etsimasi 10-20 menit dalam pengecekan buk🙏🏻
+06/01/25 13.57 - CUSTOMER SERVICE TOPHOME: Selamat [pagi/siang/sore], Bapak/Ibu.
+
+Kami informasikan bahwa saat ini sedang terjadi gangguan pada link utama layanan internet kami. Untuk menjaga kelancaran akses, saat ini kami telah mengalihkan layanan ke link backup.
+
+Kami mohon maaf atas ketidaknyamanan ini dan terima kasih atas pengertian Anda. Tim kami sedang bekerja keras untuk memulihkan link utama secepat mungkin. Jika ada yang perlu dibantu, silakan hubungi kami kembali.
+
+Terima kasih. 🙏
+06/01/25 14.01 - +62 813-7915-7656: terima kasih
+11/01/25 13.14 - +62 813-7915-7656: null
+11/01/25 13.17 - +62 813-7915-7656: null
+11/01/25 13.33 - CUSTOMER SERVICE TOPHOME: Baik buk, tenknisi ke lokasi sekarang 🙏
+11/01/25 13.34 - +62 813-7915-7656: Baik
+11/01/25 13.51 - CUSTOMER SERVICE TOPHOME: Buk teknisi udh di lokasih
+11/01/25 13.56 - CUSTOMER SERVICE TOPHOME: null
+11/01/25 13.59 - CUSTOMER SERVICE TOPHOME: ‎IMG-20250111-WA0020.jpg (file terlampir)
+11/01/25 14.00 - +62 813-7915-7656: Iya
+11/01/25 14.00 - +62 813-7915-7656: Saya lagi beli makan
+11/01/25 14.00 - +62 813-7915-7656: null
+24/01/25 20.04 - +62 813-7915-7656: ‎IMG-20250124-WA0018.jpg (file terlampir)
+24/01/25 20.05 - +62 813-7915-7656: Selamat Malam bisa diaktifkan kembali wifinya terima kasih
+24/01/25 20.10 - +62 813-7915-7656: null
+25/01/25 05.13 - CUSTOMER SERVICE TOPHOME: ‎IMG-20250125-WA0000.jpg (file terlampir)
+baik selamat pagi pak kami lihat dari sistem internet sudah kembali up kembali, mohon maaf atas slow respon nya pak🙏
+25/01/25 07.11 - +62 813-7915-7656: ‎STK-20240602-WA0010.webp (file terlampir)
+04/02/25 13.45 - +62 813-7915-7656: Internetnya gangguan y
+04/02/25 13.45 - CUSTOMER SERVICE TOPHOME: PEMBERITAHUAN TERKAIT LINK JAKARTA - PALEMBANG
+
+Nomor: 1127/SK.k/TOP/PLM/IV/2025
+Palembang
+
+Kepada
+Yth. Seluruh Pelanggan dan Rekanan
+PT. Telemedia Prima Nusantara
+
+Dengan hormat,
+
+Kami informasikan bahwa saat ini sedang terjadi gangguan pada link Jakarta - Palembang yang mengalami down, Untuk saat ini tim sedang dalam proses perbaikan
+DETAIL WAKTU PENGERJAAN
+
+Hari/Tanggal: Selasa,4 Februari 2025
+
+Waktu: 13:30 WIB
+
+Estimasi Pengerjaan: ±2 Jam dalam rentang waktu tersebut
+
+Kami memohon maaf atas ketidaknyamanan yang mungkin terjadi selama proses pemeliharaan. Terima kasih atas perhatian dan pengertiannya.
+
+Hormat kami,
+
+PT. Telemedia Prima Nusantara
+04/02/25 14.45 - CUSTOMER SERVICE TOPHOME: Silakan di cek kembali internet sudah kembali normal,mohon maaf atas menggangu waktunya terima kasih🙏
+24/02/25 04.49 - +62 813-7915-7656: ‎IMG-20250224-WA0000.jpg (file terlampir)
+24/02/25 04.49 - CUSTOMER SERVICE TOPHOME: Terima kasih telah menghubungi Customer Service TOPHOME Telemedia. Silakan beri tahu apa yang dapat kami bantu.
+24/02/25 04.50 - +62 813-7915-7656: Sudah melakukan pembayaran agar diaktifkan kembali wifinya terima kasih
+24/02/25 07.33 - CUSTOMER SERVICE TOPHOME: baik buk silakan dicek internetnya

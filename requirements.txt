@@ -1,0 +1,11 @@
+langchain
+openai
+faiss-cpu
+# lanhchain-openai
+langchain-community
+sentence-transformers
+fastapi
+uvicorn
+weaviate-client
+tqdm
+python-dotenv
