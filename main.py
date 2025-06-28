@@ -51,7 +51,7 @@ def initialize_chatbot():
 
     try:
 
-        DATA_DIR = os.getenv("DATA_DIR", "/home/akari/chatbot/data")
+        DATA_DIR = os.getenv("DATA_DIR", "./data")
         faq_data = load_data(os.path.join(DATA_DIR, "faq_data.json"))
         retrieval_data = load_data(os.path.join(DATA_DIR, "retrieval_data.json"))
 
